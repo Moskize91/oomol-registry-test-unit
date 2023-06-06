@@ -1,0 +1,5 @@
+name: github-file
+namespace: oomol/test-unit
+version: 1.0.0
+libs:
+  - path: ./index.js
